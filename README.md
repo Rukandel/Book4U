@@ -1,6 +1,6 @@
 # 📚 Online Book Sales 📚
 
-![CoverPage](cover-page.png)
+
 
 Welcome to **Online Book Sales**, an e-commerce platform where you can browse, purchase, and enjoy a wide range of books from our extensive catalog! Our system is built with a 3-tier architecture, featuring a **MongoDB** database backend, **Node.js** & **Express.js** middleware, and a sleek **React** frontend.
 
@@ -112,25 +112,3 @@ Alternatively, you can use GitHub Desktop to manage the repository:
 
 ---
 
-## In-Depth Project Analysis
-
-For a detailed overview of how the project works, please read the [Project Details](PROJECT_DETAILS.md) documentation. This will give you a deep dive into the architecture and design decisions. 🧠
-
----
-
-## Our Contributors
-
-<h3 align="center">A big THANK YOU to all our contributors! 🙌</h3> 
-<div align="center">
-  <img src="https://contrib.rocks/image?repo=Trisha-tech/OnlineBookSales" alt="Contributors">
-</div>
-
----
-
-## Contact Information
-
-If you have any questions or feedback, feel free to reach out via **GitHub**. You can also join our discussion forum.
-
-We look forward to hearing from you! ✨
-
-💙 Thank You !!! 💙
