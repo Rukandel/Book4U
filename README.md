@@ -6,7 +6,7 @@ Follow these steps to run the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Trisha-tech/OnlineBookSales.git
+   git clone https://github.com/Rukandel/Book4U
    cd OnlineBookSales
     ```
 2. Write the command.
